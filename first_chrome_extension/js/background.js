@@ -33,7 +33,7 @@ function printProbabilities() {
             "method": "GET",
             "headers": {
                 "Accept": "application/json",
-                "X-API-KEY": "cc8b1c04545239c948692f63f43ee62b"
+                "X-API-KEY": ""
             }
             })
             // Return the json response.
